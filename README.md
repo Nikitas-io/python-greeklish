@@ -2,6 +2,9 @@
 This Python library converts any given Greek string to Greeklish.
 
 ## Install
+To install and use [the package](https://pypi.org/project/python-greeklish/) in your local or global environment, run: `pip install python-greeklish`
+
+To install the project in a linux machine run:
 ```sudo python setup.py install```
 
 or
